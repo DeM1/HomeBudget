@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Домашний бюджет</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_finance">Учёт доходов</string>
+    <string name="title_activity_cost">Учёт расходов</string>
+    <string name="title_activity_setting">Настройки</string>
+</resources>
